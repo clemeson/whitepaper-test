@@ -2,7 +2,7 @@
 
 * [Summary](README.md)
 * [The Game](page-1.md)
-* [Decks](decks.md)
+* [Decks](overview/README.md)
 * [Cards](cards.md)
 * [Battlefield](battlefield.md)
 * [Rarity](rarity.md)
